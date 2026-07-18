@@ -1,2 +1,2 @@
 print('hai everyone')
-print('what's your name?')
+print('whats your name?')
